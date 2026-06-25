@@ -2307,8 +2307,9 @@
     "documentation": "https://blink.ucsd.edu/technology/security/services/two-step-login/"
   },
   "ui.com": {
-    "passwordless": true,
-    "mfa": false
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.ui.com/hc/en-us/articles/18116371054487"
   },
   "uidaho.edu": {
     "passwordless": false,

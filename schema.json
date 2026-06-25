@@ -40,6 +40,10 @@
       "type": ["string", "null"],
       "description": "URL to the site's passkey/2FA setup documentation."
     },
+    "notes": {
+      "type": "string",
+      "description": "Optional curator note: classification rationale, evidence/source links, or caveats (e.g. MFA-only vs passwordless)."
+    },
     "sources": {
       "type": "array",
       "items": { "type": "string", "enum": ["2factorauth", "dashlane", "community", "probe"] },

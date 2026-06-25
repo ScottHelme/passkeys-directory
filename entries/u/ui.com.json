@@ -1,14 +1,16 @@
 {
   "domain": "ui.com",
-  "name": null,
-  "passkey_signin": true,
-  "passkey_mfa": false,
+  "name": "Ubiquiti",
+  "passkey_signin": false,
+  "passkey_mfa": true,
   "additional_domains": [],
-  "category": null,
+  "category": "networking",
   "region": "global",
-  "documentation": null,
+  "documentation": "https://help.ui.com/hc/en-us/articles/18116371054487",
+  "notes": "Consumer Ubiquiti/UI account: passkey supported as a second factor (MFA) only; passwordless first-factor sign-in (FIDO2) is UID Enterprise only, not the general account. Sources: Ubiquiti Community thread (UI staff confirmation, 28 Dec 2024) https://community.ui.com/questions/Passkey-option-not-given-when-signing-into-Unifi-account/f84d5f28-5b26-49f5-a596-6c25b67c26b2",
   "sources": [
-    "dashlane"
+    "dashlane",
+    "community"
   ],
   "added": "2026-06-25"
 }
