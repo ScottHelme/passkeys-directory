@@ -1,0 +1,14 @@
+{
+  "domain": "compose.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://www.compose.com/articles/introducing-fido-universal-2nd-factor-authentication/",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

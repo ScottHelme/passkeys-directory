@@ -1,0 +1,15 @@
+{
+  "domain": "cloudflare.com",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://support.cloudflare.com/hc/en-us/articles/200167906",
+  "sources": [
+    "2factorauth",
+    "dashlane"
+  ],
+  "added": "2026-06-25"
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "tu-darmstadt.de",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://www.hrz.tu-darmstadt.de/tuid-2fa",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

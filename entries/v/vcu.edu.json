@@ -1,0 +1,14 @@
+{
+  "domain": "vcu.edu",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://ts.vcu.edu/askit/essential-computing/information-security/2factor/",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "mail.aol.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://help.aol.com/articles/2-step-verification-stronger-than-your-password-alone",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "hpe.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://support.hpe.com/hpesc/public/docDisplay?docId=sd00002926en_us&page=GUID-78722BEA-6517-4C6E-96F3-92E9D81903E2.html",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

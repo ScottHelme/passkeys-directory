@@ -1,0 +1,14 @@
+{
+  "domain": "cloud.google.com",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://safety.google/authentication/passkey/",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

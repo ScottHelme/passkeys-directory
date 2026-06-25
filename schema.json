@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Passkeys Index entry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["domain", "passkey_signin", "passkey_mfa", "sources"],
+  "properties": {
+    "domain": {
+      "type": "string",
+      "description": "Registrable domain (eTLD+1), lowercase, no scheme or www.",
+      "pattern": "^[a-z0-9.-]+\\.[a-z]{2,}$"
+    },
+    "name": {
+      "type": ["string", "null"],
+      "description": "Human-readable site/brand name."
+    },
+    "passkey_signin": {
+      "type": "boolean",
+      "description": "Passkeys can be used for passwordless sign-in."
+    },
+    "passkey_mfa": {
+      "type": "boolean",
+      "description": "Passkeys can be used as a second factor."
+    },
+    "additional_domains": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Other registrable domains the same account/sign-in covers."
+    },
+    "category": {
+      "type": ["string", "null"],
+      "description": "Loose sector tag (finance, social, identity, …)."
+    },
+    "region": {
+      "type": "string",
+      "description": "'global', or an ISO 3166-1 alpha-2 country code for sites that are predominantly local to one market. Lets country lists surface locally-popular sites that no global-rank-capped directory carries.",
+      "default": "global"
+    },
+    "documentation": {
+      "type": ["string", "null"],
+      "description": "URL to the site's passkey/2FA setup documentation."
+    },
+    "sources": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["2factorauth", "dashlane", "community", "probe"] },
+      "description": "Provenance. CC-BY/MIT imports MUST retain their origin here for attribution."
+    },
+    "added": {
+      "type": "string",
+      "format": "date"
+    }
+  }
+}

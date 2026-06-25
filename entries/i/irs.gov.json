@@ -1,0 +1,14 @@
+{
+  "domain": "irs.gov",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://www.irs.gov/privacy-disclosure/secure-access-how-to-register-for-certain-online-self-help-tools",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

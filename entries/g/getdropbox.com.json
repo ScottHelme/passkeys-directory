@@ -1,0 +1,14 @@
+{
+  "domain": "getdropbox.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://help.dropbox.com/security/enable-two-step-verification",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

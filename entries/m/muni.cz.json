@@ -1,0 +1,14 @@
+{
+  "domain": "muni.cz",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://it.muni.cz/en/services/muni-unified-login/multi-factor-authentication",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "magic.link",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": null,
+  "sources": [
+    "dashlane"
+  ],
+  "added": "2026-06-25"
+}

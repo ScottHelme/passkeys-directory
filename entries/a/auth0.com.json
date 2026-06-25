@@ -1,0 +1,14 @@
+{
+  "domain": "auth0.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://auth0.com/docs/secure/multi-factor-authentication/enable-mfa",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

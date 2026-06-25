@@ -1,0 +1,12 @@
+{
+  "name": "passkeys-directory",
+  "version": "0.1.0",
+  "description": "An open directory of websites that support passkeys — top 1M scope, no global-rank cap.",
+  "type": "module",
+  "license": "CC-BY-4.0",
+  "private": true,
+  "scripts": {
+    "seed": "node build/import-seed.js",
+    "build": "node build/compile.js"
+  }
+}

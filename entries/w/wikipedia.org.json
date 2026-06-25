@@ -1,0 +1,14 @@
+{
+  "domain": "wikipedia.org",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://meta.wikimedia.org/wiki/Help:Two-factor_authentication",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

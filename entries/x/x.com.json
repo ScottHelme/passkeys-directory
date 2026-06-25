@@ -1,0 +1,15 @@
+{
+  "domain": "x.com",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://help.x.com/managing-your-account/how-to-use-passkey",
+  "sources": [
+    "2factorauth",
+    "dashlane"
+  ],
+  "added": "2026-06-25"
+}

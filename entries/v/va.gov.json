@@ -1,0 +1,14 @@
+{
+  "domain": "va.gov",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://www.va.gov/resources/verifying-your-identity-on-vagov",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

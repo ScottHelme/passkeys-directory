@@ -1,0 +1,14 @@
+{
+  "domain": "veracode.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://help.veracode.com/r/t_configure_mfa",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

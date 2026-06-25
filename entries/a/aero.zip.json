@@ -1,0 +1,15 @@
+{
+  "domain": "aero.zip",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://aero.zip/faq/can-i-log-in-with-passkey",
+  "sources": [
+    "2factorauth",
+    "dashlane"
+  ],
+  "added": "2026-06-25"
+}

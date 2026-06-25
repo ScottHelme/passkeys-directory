@@ -1,0 +1,14 @@
+{
+  "domain": "mulesoft.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://docs.mulesoft.com/access-management/multi-factor-authentication",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

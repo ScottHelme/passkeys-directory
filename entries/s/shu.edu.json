@@ -1,0 +1,14 @@
+{
+  "domain": "shu.edu",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://tech-shu-edu.refined.site/space/PUBLICKBA/2096431118/Guide%20to%20Enrolling%20a%20Device%20in%20Duo",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

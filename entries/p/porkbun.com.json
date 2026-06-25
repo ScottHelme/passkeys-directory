@@ -1,0 +1,15 @@
+{
+  "domain": "porkbun.com",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://kb.porkbun.com/article/19--",
+  "sources": [
+    "2factorauth",
+    "dashlane"
+  ],
+  "added": "2026-06-25"
+}

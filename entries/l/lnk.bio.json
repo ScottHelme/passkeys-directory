@@ -1,0 +1,14 @@
+{
+  "domain": "lnk.bio",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://lnk.bio/linkin/log-in-with-passkeys-to-lnkbio",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

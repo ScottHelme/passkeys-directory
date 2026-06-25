@@ -1,0 +1,15 @@
+{
+  "domain": "docusign.com",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://support.docusign.com/s/document-item?bundleId=jux1643235969954&topicId=niw1651694673085.html",
+  "sources": [
+    "2factorauth",
+    "dashlane"
+  ],
+  "added": "2026-06-25"
+}

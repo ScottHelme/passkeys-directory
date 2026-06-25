@@ -1,0 +1,14 @@
+{
+  "domain": "mines.edu",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://its.mines.edu/mfa/",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

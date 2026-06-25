@@ -1,0 +1,14 @@
+{
+  "domain": "pypi.org",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://pypi.org/help/#twofa",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

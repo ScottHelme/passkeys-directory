@@ -1,0 +1,14 @@
+{
+  "domain": "vse.cz",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://ci.vse.cz/english/support/procedures/multi-factor-authentication-in-microsoft-365/",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

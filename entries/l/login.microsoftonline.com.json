@@ -1,0 +1,14 @@
+{
+  "domain": "login.microsoftonline.com",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://support.microsoft.com/en-us/account-billing/how-to-use-two-step-verification-with-your-microsoft-account-c7910146-672f-01e9-50a0-93b4585e7eb4",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "otago.ac.nz",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://otago.custhelp.com/app/answers/detail/a_id/3073",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

@@ -1,0 +1,43 @@
+name: Add a site
+description: Suggest a website that supports passkeys
+title: "[add] example.com"
+labels: ["add-site"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping! This repo is a **data source** — suggestions come in as
+        issues and a maintainer verifies them before adding the entry. You don't need
+        to open a pull request.
+  - type: input
+    id: domain
+    attributes:
+      label: Domain
+      description: The registrable domain, lowercase, no https:// or www.
+      placeholder: example.com
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Site name
+      placeholder: Example Inc.
+  - type: checkboxes
+    id: capabilities
+    attributes:
+      label: What does it support?
+      options:
+        - label: Passwordless sign-in with a passkey
+        - label: Passkey as a second factor (MFA)
+  - type: input
+    id: documentation
+    attributes:
+      label: Evidence / setup docs URL
+      description: A link to the site's passkey setup page or announcement. Strongly preferred — it speeds up verification.
+      placeholder: https://example.com/security/passkeys
+  - type: input
+    id: region
+    attributes:
+      label: Region
+      description: "'global', or an ISO country code (e.g. SE, KE, VN) if this is a predominantly local site. Local sites are especially welcome — they're the ones other directories miss."
+      placeholder: global

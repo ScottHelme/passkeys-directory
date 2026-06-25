@@ -1,0 +1,14 @@
+{
+  "domain": "shadow.tech",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://support.shadow.tech/hc/en-us/articles/8741331563676",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

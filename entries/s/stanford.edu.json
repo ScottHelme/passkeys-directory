@@ -1,0 +1,14 @@
+{
+  "domain": "stanford.edu",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://uit.stanford.edu/service/webauth/twostep",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

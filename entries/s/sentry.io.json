@@ -1,0 +1,14 @@
+{
+  "domain": "sentry.io",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://blog.sentry.io/2016/06/22/introducing-2fa",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "jumpcloud.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://jumpcloud.com/support/set-up-authenticator-app-for-user-account",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

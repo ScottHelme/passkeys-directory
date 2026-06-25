@@ -1,0 +1,14 @@
+{
+  "domain": "nulab.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://support.nulab.com/hc/en-us/articles/7732936736537",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

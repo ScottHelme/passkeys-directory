@@ -1,0 +1,14 @@
+{
+  "domain": "partycity.ca",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://triangle.canadiantire.ca/en/my-account/account-settings/passkey.html",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

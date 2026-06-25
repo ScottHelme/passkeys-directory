@@ -1,0 +1,15 @@
+{
+  "domain": "synology.com",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://kb.synology.com/en-us/DSM/help/DSM/SecureSignIn/hardware_security_key",
+  "sources": [
+    "2factorauth",
+    "dashlane"
+  ],
+  "added": "2026-06-25"
+}

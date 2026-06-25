@@ -1,0 +1,14 @@
+{
+  "domain": "boursorama.com",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://www.boursobank.com/aide-en-ligne/securite/proteger-mon-espace-client/question/5165516",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

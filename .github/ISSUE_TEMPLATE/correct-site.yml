@@ -1,0 +1,19 @@
+name: Correct a site
+description: Fix or remove an existing entry (wrong status, dead docs link, no longer supported)
+title: "[fix] example.com"
+labels: ["correction"]
+body:
+  - type: input
+    id: domain
+    attributes:
+      label: Domain
+      placeholder: example.com
+    validations:
+      required: true
+  - type: textarea
+    id: whats-wrong
+    attributes:
+      label: What's wrong?
+      description: What does the current entry say, and what should it say? Link evidence if you have it.
+    validations:
+      required: true

@@ -1,0 +1,15 @@
+{
+  "domain": "wise.com",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://wise.com/help/articles/4OTG2Z93XXyaurUviZRg5O/",
+  "sources": [
+    "2factorauth",
+    "dashlane"
+  ],
+  "added": "2026-06-25"
+}

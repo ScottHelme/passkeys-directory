@@ -1,0 +1,14 @@
+{
+  "domain": "webgate.ec.europa.eu",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://webgate.ec.europa.eu/cas/manuals/EU_Login_Tutorial.pdf",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

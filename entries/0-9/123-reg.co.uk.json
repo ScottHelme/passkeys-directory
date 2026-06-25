@@ -1,0 +1,14 @@
+{
+  "domain": "123-reg.co.uk",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://www.123-reg.co.uk/support/my-account/how-do-i-enable-2-step-verification-on-my-account/",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

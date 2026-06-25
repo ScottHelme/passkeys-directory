@@ -1,0 +1,14 @@
+{
+  "domain": "nd.edu",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://nd.service-now.com/nd_portal?id=kb_article_view&sysparm_article=KB0017218",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

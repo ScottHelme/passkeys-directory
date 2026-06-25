@@ -1,0 +1,14 @@
+{
+  "domain": "cpp.edu",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://cpp.service-now.com/ehelp?id=kb_article&sys_id=ed4dcbc3dbeb1f449bba68461b96198e",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "ing.pl",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://www.ing.pl/indywidualni/bankowosc-internetowa/bezpieczenstwo/klucze-zabezpieczen-u2f",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

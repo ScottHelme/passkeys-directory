@@ -1,0 +1,14 @@
+{
+  "domain": "delinea.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://docs.delinea.com/ss/10.8.0/authentication/two-factor-authentication",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

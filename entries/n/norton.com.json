@@ -1,0 +1,14 @@
+{
+  "domain": "norton.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://support.norton.com/sp/en/us/home/current/solutions/v100023155_NortonM_Retail_1_en_us",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

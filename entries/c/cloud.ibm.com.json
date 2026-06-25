@@ -1,0 +1,14 @@
+{
+  "domain": "cloud.ibm.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://cloud.ibm.com/docs/account?topic=account-enablemfa",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "cloze.com",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://help.cloze.com/article/2729-how-do-i-sign-in-with-a-passkey",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

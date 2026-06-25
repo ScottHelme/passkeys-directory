@@ -1,0 +1,14 @@
+{
+  "domain": "standardnotes.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://standardnotes.com/help/25",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

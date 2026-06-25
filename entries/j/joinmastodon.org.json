@@ -1,0 +1,14 @@
+{
+  "domain": "joinmastodon.org",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://github.com/McKael/mastodon-documentation/blob/master/Using-Mastodon/2FA.md",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

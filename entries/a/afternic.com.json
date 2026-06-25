@@ -1,0 +1,14 @@
+{
+  "domain": "afternic.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://help.afternic.com/s/article/How-can-I-set-up-Two-Factor-Authentication-for-my-account",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

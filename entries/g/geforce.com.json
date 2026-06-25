@@ -1,0 +1,14 @@
+{
+  "domain": "geforce.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://login.nvgs.nvidia.com/v1/help/nfactor",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

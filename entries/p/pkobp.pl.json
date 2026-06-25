@@ -1,0 +1,14 @@
+{
+  "domain": "pkobp.pl",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://iko.pkobp.pl/funkcje/mobilna-autoryzacja/",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

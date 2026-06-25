@@ -1,0 +1,14 @@
+{
+  "domain": "gmarket.co.kr",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

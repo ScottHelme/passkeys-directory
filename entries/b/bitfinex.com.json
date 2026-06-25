@@ -1,0 +1,14 @@
+{
+  "domain": "bitfinex.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://support.bitfinex.com/hc/en-us/sections/900000097443",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

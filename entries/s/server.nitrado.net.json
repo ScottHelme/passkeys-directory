@@ -1,0 +1,14 @@
+{
+  "domain": "server.nitrado.net",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://server.nitrado.net/en-US/guides/two-factor-authentication-en",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

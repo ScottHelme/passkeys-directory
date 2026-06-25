@@ -1,0 +1,14 @@
+{
+  "domain": "sydney.edu.au",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://www.sydney.edu.au/students/log-in-to-university-systems.html",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

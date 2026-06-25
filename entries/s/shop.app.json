@@ -1,0 +1,15 @@
+{
+  "domain": "shop.app",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://help.shop.app/en/shop/shop-pay-settings/security/passkeys",
+  "sources": [
+    "2factorauth",
+    "dashlane"
+  ],
+  "added": "2026-06-25"
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "gandi.net",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://docs.gandi.net/en/account_management/security/",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

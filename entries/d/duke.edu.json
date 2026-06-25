@@ -1,0 +1,14 @@
+{
+  "domain": "duke.edu",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://oit.duke.edu/service/duke-unlock/",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "headway.co",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://help.headway.co/hc/articles/4428388155028#h_01J6CN885B50GFFC3QCXY51QT7",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

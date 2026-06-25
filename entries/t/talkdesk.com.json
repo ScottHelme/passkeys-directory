@@ -1,0 +1,14 @@
+{
+  "domain": "talkdesk.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://support.talkdesk.com/hc/en-us/articles/360015179592",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

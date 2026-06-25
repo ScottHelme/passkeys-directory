@@ -1,0 +1,14 @@
+{
+  "domain": "ubc.ca",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://privacymatters.ubc.ca/test-faqs",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

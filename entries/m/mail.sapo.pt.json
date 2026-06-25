@@ -1,0 +1,14 @@
+{
+  "domain": "mail.sapo.pt",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://ajuda.sapo.pt/id-67553",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

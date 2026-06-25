@@ -1,0 +1,14 @@
+{
+  "domain": "bitwarden.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://bitwarden.com/help/setup-two-step-login-fido/",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

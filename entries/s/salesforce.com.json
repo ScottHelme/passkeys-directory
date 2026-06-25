@@ -1,0 +1,14 @@
+{
+  "domain": "salesforce.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://help.salesforce.com/s/articleView?id=sf.register_built_in_authenticator.htm",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

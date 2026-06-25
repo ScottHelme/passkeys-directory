@@ -1,0 +1,14 @@
+{
+  "domain": "mojang.com",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

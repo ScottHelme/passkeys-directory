@@ -1,0 +1,15 @@
+{
+  "domain": "okta.com",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://help.okta.com/en-us/content/topics/security/mfa/mfa-factors.htm",
+  "sources": [
+    "2factorauth",
+    "dashlane"
+  ],
+  "added": "2026-06-25"
+}

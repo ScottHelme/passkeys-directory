@@ -1,0 +1,2606 @@
+{
+  "123-reg.co.uk": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.123-reg.co.uk/support/my-account/how-do-i-enable-2-step-verification-on-my-account/"
+  },
+  "1password.ca": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.1password.com/two-factor-authentication/"
+  },
+  "1password.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.1password.com/two-factor-authentication/"
+  },
+  "1password.eu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.1password.com/two-factor-authentication/"
+  },
+  "abanca.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "accounts.nintendo.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/62531"
+  },
+  "accuweather.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "adafruit.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://learn.adafruit.com/how-to-set-up-2-factor-authentication-on-adafruit"
+  },
+  "addisonlee.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "adidas.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "adobe.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://helpx.adobe.com/manage-account/using/secure-sign-in-with-passkey.html"
+  },
+  "adp.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "adt.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "aero.zip": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://aero.zip/faq/can-i-log-in-with-passkey"
+  },
+  "affirm.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "aflac.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "afternic.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.afternic.com/s/article/How-can-I-set-up-Two-Factor-Authentication-for-my-account"
+  },
+  "afterpay.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "ageverif.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "aha.io": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.aha.io/support/ideas/ideas/settings/account-settings#security-and-single-sign-on"
+  },
+  "aid.no": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "airasia.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "airfranceklm.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "airnewzealand.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "alibaba.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "aliexpress.com": {
+    "passwordless": true,
+    "mfa": true
+  },
+  "amazon.ae": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.ca": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.cn": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.co.jp": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.co.uk": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.com.au": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.com.br": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.com.mx": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.com.tr": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.de": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.es": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.fr": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.in": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.it": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.nl": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.pl": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "amazon.sa": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.se": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.sg": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TPphmhSWBgcI9Ak87p"
+  },
+  "amazon.work": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "aol.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "apple.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "appleid.apple.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://support.apple.com/en-us/HT204915"
+  },
+  "april.fr": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "arbeitsagentur.de": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.arbeitsagentur.de/passkey"
+  },
+  "arpari.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "ascension.org": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "asu.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://getprotected.asu.edu/services/identity-and-access-management/duo-two-factor-authentication"
+  },
+  "auone.jp": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "auth-basspro.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "auth-cabelas.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "auth0.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://auth0.com/docs/secure/multi-factor-authentication/enable-mfa"
+  },
+  "authgear.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "authsignal.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "aws.amazon.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://aws.amazon.com/iam/features/mfa/"
+  },
+  "axs.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "azure.microsoft.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "basecamp.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://3.basecamp-help.com/article/443--"
+  },
+  "battle.net": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.blizzard.com/help/article/380922"
+  },
+  "bcbsil.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "bcbstx.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "berkeley.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://calnetweb.berkeley.edu/calnet-2-step"
+  },
+  "bestbuy.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "beyondidentity.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "bigpond.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.telstra.com.au/support/account-payment/set-up-and-manage-a-passkey"
+  },
+  "bigpond.com.au": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.telstra.com.au/support/account-payment/set-up-and-manage-a-passkey"
+  },
+  "binance.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://www.binance.com/en/support/faq/c-1?navId=1#11"
+  },
+  "bitbucket.org": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.atlassian.com/bitbucket-cloud/docs/enable-two-step-verification/"
+  },
+  "bitfinex.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.bitfinex.com/hc/en-us/sections/900000097443"
+  },
+  "bitgo.com": {
+    "passwordless": false,
+    "mfa": true
+  },
+  "bitwarden.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://bitwarden.com/help/setup-two-step-login-fido/"
+  },
+  "blizzard.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.blizzard.com/help/article/380922"
+  },
+  "bmw.co.uk": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "bmwusa.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "bolt.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "bolt.eu": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "booking.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "bookmyname.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "boursobank.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "boursorama.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.boursobank.com/aide-en-ligne/securite/proteger-mon-espace-client/question/5165516"
+  },
+  "bp.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "braintreepayments.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://articles.braintreepayments.com/reference/security/two-factor-authentication"
+  },
+  "braunhousehold.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "bridgecrest.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "britishairways.com": {
+    "passwordless": true,
+    "mfa": true
+  },
+  "bu.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.bu.edu/tech/support/duo/"
+  },
+  "bumble.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "byu.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://duo.byu.edu/"
+  },
+  "calpoly.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://calpoly.atlassian.net/wiki/spaces/CPKB/pages/3539066"
+  },
+  "canadalife.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "canadiantire.ca": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://triangle.canadiantire.ca/en/my-account/account-settings/passkey.html"
+  },
+  "canva.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.canva.com/help/passkey-log-in/"
+  },
+  "capitalone.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "cardpointers.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "caremark.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "carnival.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "carta.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "cathaypacific.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "celebrations.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "chat.google.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://safety.google/authentication/passkey/"
+  },
+  "chatgpt.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://help.openai.com/articles/20001039"
+  },
+  "check24.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "chime.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "classlink.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.classlink.com/solutions/multi-factor-authentication"
+  },
+  "clearpay.co.uk": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "clemson.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://2fa.app.clemson.edu/"
+  },
+  "cloud.google.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://safety.google/authentication/passkey/"
+  },
+  "cloud.ibm.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://cloud.ibm.com/docs/account?topic=account-enablemfa"
+  },
+  "cloud.oracle.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://docs.oracle.com/en/cloud/paas/identity-cloud/uaids/configure-authentication-factors.html"
+  },
+  "cloud66.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.cloud66.com/node/account/two-factor-authentication.html"
+  },
+  "cloudflare.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://support.cloudflare.com/hc/en-us/articles/200167906"
+  },
+  "cloze.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://help.cloze.com/article/2729-how-do-i-sign-in-with-a-passkey"
+  },
+  "cmu.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.cmu.edu/computing/services/security/identity-access/authentication/how-to/use2fa-weblogin.html"
+  },
+  "codeberg.org": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://docs.codeberg.org/security/2fa/"
+  },
+  "coinbase.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://help.coinbase.com/en/coinbase/getting-started/verify-my-account/how-do-i-set-up-2-factor-authentication"
+  },
+  "colorado.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://oit.colorado.edu/services/identity-access-management/duo-multi-factor-authentication"
+  },
+  "columbia.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.cuit.columbia.edu/mfa"
+  },
+  "compose.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.compose.com/articles/introducing-fido-universal-2nd-factor-authentication/"
+  },
+  "condenast.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "congstar.de": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "copaair.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "corbado.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "cornell.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://it.cornell.edu/twostep"
+  },
+  "costco.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "cpoms.co.uk": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://raptor.my.site.com/CPOMS/s/article/CPOMS-Login-Help-Guide-4cb23e40"
+  },
+  "cpp.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://cpp.service-now.com/ehelp?id=kb_article&sys_id=ed4dcbc3dbeb1f449bba68461b96198e"
+  },
+  "crowdin.com": {
+    "passwordless": true,
+    "mfa": true
+  },
+  "crowdsupply.com": {
+    "passwordless": false,
+    "mfa": true
+  },
+  "crypto.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "cutx.org": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "cvs.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "deakin.edu.au": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.deakin.edu.au/ithelp?id=kb_article&sysparm_article=KB0014662"
+  },
+  "delinea.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://docs.delinea.com/ss/10.8.0/authentication/two-factor-authentication"
+  },
+  "dell.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "delonghi.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "dexcom.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "dinero.dk": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "discord.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://support.discord.com/hc/en-us/articles/219576828"
+  },
+  "dmarcian.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://dmarcian.com/secure-dmarcian-2fa/"
+  },
+  "dnsimple.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.dnsimple.com/articles/two-factor-authentication/"
+  },
+  "docomo.ne.jp": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "docusign.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://support.docusign.com/s/document-item?bundleId=jux1643235969954&topicId=niw1651694673085.html"
+  },
+  "doppler.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://docs.doppler.com/docs/security-fact-sheet#user-authentication"
+  },
+  "drive.google.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://safety.google/authentication/passkey/"
+  },
+  "dropbox.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://help.dropbox.com/security/enable-two-step-verification"
+  },
+  "duke-energy.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "duke.edu": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://oit.duke.edu/service/duke-unlock/"
+  },
+  "duosecurity.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "dynadot.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.dynadot.com/community/help/question/2-step-verification"
+  },
+  "easycruit.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "ebay.at": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.be": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.ca": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.ch": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.cn": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.co.jp": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.co.uk": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.com.au": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.com.hk": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.com.my": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.com.sg": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.com.tw": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.de": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.es": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.fr": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.ie": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.in": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.it": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.nl": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.ph": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ebay.pl": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "ee.co.uk": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "electrifyamerica.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "employmenthero.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "epayslips.co.uk": {
+    "passwordless": false,
+    "mfa": true
+  },
+  "equifax.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "erau.edu": {
+    "passwordless": false,
+    "mfa": true
+  },
+  "experian.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "facebook.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.facebook.com/help/148233965247823"
+  },
+  "fastmail.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.fastmail.com/help/account/2fa.html"
+  },
+  "fi.google.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://safety.google/authentication/passkey/"
+  },
+  "fiber.google.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://safety.google/authentication/passkey/"
+  },
+  "files.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.files.com/docs/features/twofactor-authentication-2fa"
+  },
+  "finom.co": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "fit.google.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://safety.google/authentication/passkey/"
+  },
+  "fleeps.co": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "fool.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "ford.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "formx.ai": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "fragdenstaat.de": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://fragdenstaat.de/hilfe/ihr-konto-verwalten/zwei-faktor-login/"
+  },
+  "frontegg.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "ft.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "fusionauth.io": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://fusionauth.io/docs/lifecycle/manage-users/account-management/add-webauthn"
+  },
+  "gandi.net": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://docs.gandi.net/en/account_management/security/"
+  },
+  "gatech.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://oit.gatech.edu/two-factor-authentication"
+  },
+  "geforce.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://login.nvgs.nvidia.com/v1/help/nfactor"
+  },
+  "gemini.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://support.gemini.com/hc/en-us/articles/204732985"
+  },
+  "georgetown.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://uis.georgetown.edu/security/duo/"
+  },
+  "getdropbox.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.dropbox.com/security/enable-two-step-verification"
+  },
+  "github.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication"
+  },
+  "gitlab.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html"
+  },
+  "glady.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "gmarket.co.kr": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ebay.com/help/account/signing-account/signing-account?id=4189#section2"
+  },
+  "godaddy.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://www.godaddy.com/help/enable-two-step-verification-7502"
+  },
+  "google.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "goteleport.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://goteleport.com/docs/access-controls/guides/webauthn/"
+  },
+  "grab.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://engineering.grab.com/embracing-passwordless-authentication-with-passkey"
+  },
+  "groupme.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "gusto.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "haeppie.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "hanko.io": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "harvard.edu": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://harvard.service-now.com/ithelp?id=kb_article&sys_id=7d56d80347875650b4aa0f6c416d4309"
+  },
+  "hcaptcha.com": {
+    "passwordless": true,
+    "mfa": true
+  },
+  "headway.co": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.headway.co/hc/articles/4428388155028#h_01J6CN885B50GFFC3QCXY51QT7"
+  },
+  "healthequity.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "healthsafe-id.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "heb.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "hellolingo.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "heroku.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://devcenter.heroku.com/articles/multi-factor-authentication"
+  },
+  "hey.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://hey.com/security/"
+  },
+  "hmc.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.hmc.edu/cis/duo-two-factor-authentication/"
+  },
+  "hollandamerica.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "homedepot.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "horizon.pics": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "hotmail.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "hpe.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.hpe.com/hpesc/public/docDisplay?docId=sd00002926en_us&page=GUID-78722BEA-6517-4C6E-96F3-92E9D81903E2.html"
+  },
+  "hubspot.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "hyatt.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.hyatt.com/member/passkey/what-is-passkey"
+  },
+  "hypixel.net": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.hypixel.net/hc/en-us/articles/360019538060"
+  },
+  "icedrive.net": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://twitter.com/icedrivecloud/status/1412044506447364097"
+  },
+  "icims.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "icloud.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.apple.com/en-us/HT204915"
+  },
+  "id.me": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://help.id.me/hc/en-us/articles/360018113053"
+  },
+  "id.moneyforward.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "id.smt.docomo.ne.jp": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "indeed.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "indrive.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "ing.pl": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.ing.pl/indywidualni/bankowosc-internetowa/bezpieczenstwo/klucze-zabezpieczen-u2f"
+  },
+  "inspirafinancial.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "instacart.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.instacart.com/company/shopper-community/new-features-to-make-your-experience-seamless/"
+  },
+  "intuit.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "irs.gov": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.irs.gov/privacy-disclosure/secure-access-how-to-register-for-certain-online-self-help-tools"
+  },
+  "islonline.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.islonline.com/35746/286527"
+  },
+  "ivoclar.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "jaguarlandrover.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "joinmastodon.org": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://github.com/McKael/mastodon-documentation/blob/master/Using-Mastodon/2FA.md"
+  },
+  "jumpcloud.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://jumpcloud.com/support/set-up-authenticator-app-for-user-account"
+  },
+  "justpass.me": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.co.in": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.co.jp": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.co.uk": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.com.au": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.com.mx": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.de": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.es": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.fr": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.ie": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.it": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.nl": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.no": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.ru": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.se": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "kayak.sg": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "keepersecurity.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.keepersecurity.com/security#twoFactor"
+  },
+  "kenwoodworld.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "klarna.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "koofr.eu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://koofr.eu/help/two-factor-authentication/does-koofr-offer-two-factor-authentication/"
+  },
+  "kraken.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://support.kraken.com/hc/en-us/articles/360000426923"
+  },
+  "la28.org": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "laakari.chat": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "lastpass.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.logmeininc.com/lastpass/help/enable-multifactor-authentication-lp010002"
+  },
+  "libbyapp.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "lifeway.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "link.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.link.com/questions/passkeys-on-link"
+  },
+  "linkedin.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.linkedin.com/help/linkedin/answer/a1621596"
+  },
+  "lnk.bio": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://lnk.bio/linkin/log-in-with-passkeys-to-lnkbio"
+  },
+  "login.gov": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://www.login.gov/help/creating-an-account/two-factor-authentication/"
+  },
+  "login.microsoftonline.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.microsoft.com/en-us/account-billing/how-to-use-two-step-verification-with-your-microsoft-account-c7910146-672f-01e9-50a0-93b4585e7eb4"
+  },
+  "login.nhs.uk": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "login.nvgs.nvidia.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://login.nvgs.nvidia.com/v1/help/nfactor"
+  },
+  "lotoquebec.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "lowes.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "luma.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "m365.cloud.microsoft": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.microsoft.com/en-us/account-billing/how-to-use-two-step-verification-with-your-microsoft-account-c7910146-672f-01e9-50a0-93b4585e7eb4"
+  },
+  "macif.fr": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "magic.link": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "mail.aol.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.aol.com/articles/2-step-verification-stronger-than-your-password-alone"
+  },
+  "mail.de": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://mail.de/hilfe/u2f-authenticator"
+  },
+  "mail.google.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://safety.google/authentication/passkey/"
+  },
+  "mail.ru": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.mail.ru/mail/settings/2fa"
+  },
+  "mail.sapo.pt": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://ajuda.sapo.pt/id-67553"
+  },
+  "mail.yahoo.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.yahoo.com/kb/SLN5013.html"
+  },
+  "mangadex.org": {
+    "passwordless": true,
+    "mfa": true
+  },
+  "marketcircle.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "marks.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://triangle.canadiantire.ca/en/my-account/account-settings/passkey.html"
+  },
+  "marshmallow-qa.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "mastodon.social": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://github.com/McKael/mastodon-documentation/blob/master/Using-Mastodon/2FA.md"
+  },
+  "mcclatchy.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "meet.google.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://safety.google/authentication/passkey/"
+  },
+  "mercury.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://help.mercury.com/t/m1h3d07"
+  },
+  "merrilledge.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.ml.com/privacy-and-security-center/usb-security-key.html"
+  },
+  "messenger.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.facebook.com/help/148233965247823"
+  },
+  "meta.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "miamioh.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.miamioh.edu/it-services/special-groups/info-security/duo/"
+  },
+  "michigan.gov": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "microsoft.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "microsoft365.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.microsoft.com/en-us/account-billing/how-to-use-two-step-verification-with-your-microsoft-account-c7910146-672f-01e9-50a0-93b4585e7eb4"
+  },
+  "migros.ch": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://account.migros.ch/help#faqPasskeyPrio"
+  },
+  "minecraft.net": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "mines.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://its.mines.edu/mfa/"
+  },
+  "mojang.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "mona.co": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "monash.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.monash.edu/esolutions/accounts-passwords/multi-factor-authentication"
+  },
+  "monash.edu.my": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.monash.edu/esolutions/accounts-passwords/multi-factor-authentication"
+  },
+  "monespacesante.fr": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "moneybird.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "moneyforward.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "mongodb.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://docs.atlas.mongodb.com/security-multi-factor-authentication/"
+  },
+  "monidentifiant.sncf": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "morganstanley.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.morganstanley.com/what-we-do/wealth-management/online-security/authentication"
+  },
+  "msu.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://secureit.msu.edu/multi-factor/index.html"
+  },
+  "mulesoft.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://docs.mulesoft.com/access-management/multi-factor-authentication"
+  },
+  "muni.cz": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://it.muni.cz/en/services/muni-unified-login/multi-factor-authentication"
+  },
+  "my.gov.au": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://my.gov.au/en/about/help/mygov-website/sign-in-to-mygov/use-passkeys"
+  },
+  "mychart.nyulmc.org": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "mychart.org": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "myfritz.net": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://en.avm.de/myfritz/faqs/security-tips-for-using-myfritz/"
+  },
+  "myisolved.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "namecheap.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://www.namecheap.com/security/2fa-two-factor-authentication/"
+  },
+  "nationalgrid.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "natixis.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "ncsu.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://oit.ncsu.edu/it-security/2fa/"
+  },
+  "nd.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://nd.service-now.com/nd_portal?id=kb_article_view&sysparm_article=KB0017218"
+  },
+  "nest.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.google.com/googlenest/answer/9295081"
+  },
+  "nest.google.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.google.com/googlenest/answer/9295081"
+  },
+  "nfl.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "nhs.uk": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://help.login.nhs.uk/manage/passkeys/"
+  },
+  "nintendo.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "nordaccount.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.nordvpn.com/1755768802/"
+  },
+  "nordlocker.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.nordpass.com/hc/en-us/articles/360002770497"
+  },
+  "nordpass.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.nordpass.com/hc/en-us/articles/360002770497"
+  },
+  "nordvpn.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.nordvpn.com/1755768802/"
+  },
+  "norton.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.norton.com/sp/en/us/home/current/solutions/v100023155_NortonM_Retail_1_en_us"
+  },
+  "notion.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "notion.so": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.notion.com/help/passkeys"
+  },
+  "npmjs.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://docs.npmjs.com/configuring-two-factor-authentication"
+  },
+  "npuserlogin.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "nuget.org": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "nulab.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.nulab.com/hc/en-us/articles/7732936736537"
+  },
+  "nvidia.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://login.nvgs.nvidia.com/v1/help/nfactor"
+  },
+  "nyu.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.nyu.edu/life/information-technology/accounts-and-access/access/mfa.html"
+  },
+  "o2.co.uk": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.virginmedia.com/help/account/what-is-device-authentication"
+  },
+  "o2.pl": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://pomoc.o2.pl/1login/jak-wlaczyc-i-wylaczyc-logowanie-dwustopniowe"
+  },
+  "office.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.microsoft.com/en-us/account-billing/how-to-use-two-step-verification-with-your-microsoft-account-c7910146-672f-01e9-50a0-93b4585e7eb4"
+  },
+  "office.microsoft.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.microsoft.com/en-us/account-billing/how-to-use-two-step-verification-with-your-microsoft-account-c7910146-672f-01e9-50a0-93b4585e7eb4"
+  },
+  "office365.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.microsoft.com/en-us/account-billing/how-to-use-two-step-verification-with-your-microsoft-account-c7910146-672f-01e9-50a0-93b4585e7eb4"
+  },
+  "offshoot.rentals": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "okta.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://help.okta.com/en-us/content/topics/security/mfa/mfa-factors.htm"
+  },
+  "okx.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.okx.com/help/how-do-i-create-passkeys-web"
+  },
+  "olympics.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "omg.lol": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "onedrive.live.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "onelog.ch": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "onelogin.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.onelogin.com/kb/4266569"
+  },
+  "onet.pl": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://pomoc.poczta.onet.pl/baza-wiedzy/czym-jest-weryfikacja-dwuetapowa/"
+  },
+  "onlyfans.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "openai.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://help.openai.com/articles/20001039"
+  },
+  "opencollective.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://docs.opencollective.com/help/product/two-factor-authentication"
+  },
+  "oraclecloud.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://docs.oracle.com/en/cloud/paas/identity-cloud/uaids/configure-authentication-factors.html"
+  },
+  "oregonstate.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://oregonstate.teamdynamix.com/TDClient/1935/Portal/KB/?CategoryID=8235"
+  },
+  "osu.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://buckeyepass.osu.edu"
+  },
+  "otago.ac.nz": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://otago.custhelp.com/app/answers/detail/a_id/3073"
+  },
+  "ouraring.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "outlook.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "outlook.live.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "ovh.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://docs.ovh.com/gb/en/customer/secure-account-with-2FA/"
+  },
+  "partycity.ca": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://triangle.canadiantire.ca/en/my-account/account-settings/passkey.html"
+  },
+  "passage.1password.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "passage.id": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "passkeys.eu": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "passkeys.guru": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "pastery.net": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "pay.google.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://safety.google/authentication/passkey/"
+  },
+  "payfit.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.payfit.com/en/articles/73141#h_ac4cfb3047"
+  },
+  "paypal-search.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.paypal.com/us/cshelp/article/help997"
+  },
+  "paypal.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.paypal.com/us/cshelp/article/help997"
+  },
+  "paze.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "penfed.org": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "perimeter81.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.perimeter81.com/docs/two-factor-authentication"
+  },
+  "petco.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "pixiv.net": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.pixiv.help/hc/articles/32291223415449"
+  },
+  "pkobp.pl": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://iko.pkobp.pl/funkcje/mobilna-autoryzacja/"
+  },
+  "plaid.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "play.eslgaming.com": {
+    "passwordless": false,
+    "mfa": true
+  },
+  "play.google.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://safety.google/authentication/passkey/"
+  },
+  "playstation.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.playstation.com/passkey/"
+  },
+  "pluxee.app": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "pluxee.fr": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "pm.me": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://proton.me/support/two-factor-authentication-2fa"
+  },
+  "polymarket.us": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "porkbun.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://kb.porkbun.com/article/19--"
+  },
+  "porsche.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "premisehealth.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.mypremisehealth.com/MyChart/Authentication/Login?mode=stdfile&option=faq#Technical_2"
+  },
+  "probit.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.probit.com/en-us/hc/360018127111"
+  },
+  "proton.me": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://proton.me/support/two-factor-authentication-2fa"
+  },
+  "protonmail.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://proton.me/support/two-factor-authentication-2fa"
+  },
+  "protonvpn.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://proton.me/support/two-factor-authentication-2fa"
+  },
+  "psu.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://get2fa.psu.edu"
+  },
+  "publishers.basicattentiontoken.org": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.brave.com/hc/en-us/articles/360021649491"
+  },
+  "pypi.org": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://pypi.org/help/#twofa"
+  },
+  "qantas.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.qantas.com/au/en/frequent-flyer/member-account-security.html#passkeys-frequently-asked-questions"
+  },
+  "qapital.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "rad.dad": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "registro.br": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://registro.br/ajuda/gerenciamento-de-conta/token/"
+  },
+  "revolut.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "ring.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "robinhood.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://robinhood.com/us/en/support/articles/passkeys/"
+  },
+  "roblox.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://en.help.roblox.com/hc/en-us/articles/212459863"
+  },
+  "safeway.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "sainsburys.co.uk": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "salesforce.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.salesforce.com/s/articleView?id=sf.register_built_in_authenticator.htm"
+  },
+  "sandbox.fusionauth.io": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "sans.org": {
+    "passwordless": false,
+    "mfa": true
+  },
+  "sceneplus.ca": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "scu.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://scu.edu/technology/get-connected/duo/learn-more-about-2fa/"
+  },
+  "sentry.io": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://blog.sentry.io/2016/06/22/introducing-2fa"
+  },
+  "server.nitrado.net": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://server.nitrado.net/en-US/guides/two-factor-authentication-en"
+  },
+  "shadow.tech": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.shadow.tech/hc/en-us/articles/8741331563676"
+  },
+  "sharkninja.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "shop.app": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://help.shop.app/en/shop/shop-pay-settings/security/passkeys"
+  },
+  "shopify.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://help.shopify.com/en/manual/your-account/logging-in/passkeys"
+  },
+  "shu.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://tech-shu-edu.refined.site/space/PUBLICKBA/2096431118/Guide%20to%20Enrolling%20a%20Device%20in%20Duo"
+  },
+  "simplelogin.io": {
+    "passwordless": false,
+    "mfa": true
+  },
+  "simplisafe.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "siriusxm.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "sktelecom.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "skype.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://learn.microsoft.com/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "snapchat.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://help.snapchat.com/hc/articles/27317385968532"
+  },
+  "sony.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "sonyentertainmentnetwork.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.playstation.com/passkey/"
+  },
+  "spaceship.com": {
+    "passwordless": false,
+    "mfa": true
+  },
+  "sportchek.ca": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://triangle.canadiantire.ca/en/my-account/account-settings/passkey.html"
+  },
+  "squareup.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://squareup.com/help/article/8460"
+  },
+  "standardnotes.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://standardnotes.com/help/25"
+  },
+  "stanford.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://uit.stanford.edu/service/webauth/twostep"
+  },
+  "statefarm.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "stitchfix.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "stripe.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://support.stripe.com/questions/how-do-i-enable-two-step-verification"
+  },
+  "subnoto.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "swan.io": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "sweetwater.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "swissid.ch": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "swisspass.ch": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "sydney.edu.au": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.sydney.edu.au/students/log-in-to-university-systems.html"
+  },
+  "synology.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://kb.synology.com/en-us/DSM/help/DSM/SecureSignIn/hardware_security_key"
+  },
+  "tailscale.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://tailscale.com/kb/1269"
+  },
+  "talkdesk.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.talkdesk.com/hc/en-us/articles/360015179592"
+  },
+  "tamu.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://it.tamu.edu/duo/"
+  },
+  "target.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://help.target.com/help/TargetGuestHelpArticleDetail?articleId=ka95d0000008R16AAE"
+  },
+  "teams.live.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://learn.microsoft.com/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "telegram.org": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "telekom.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "telenorid.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "telstra.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.telstra.com.au/support/account-payment/set-up-and-manage-a-passkey"
+  },
+  "telstra.com.au": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.telstra.com.au/support/account-payment/set-up-and-manage-a-passkey"
+  },
+  "tender.run": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "thehendrixjc.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "thomsonreuters.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "tiaa.org": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "ticketmaster.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://help.ticketmaster.com/hc/articles/37580664256145"
+  },
+  "tiktok.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.tiktok.com/en/log-in-troubleshoot/log-in/log-in-with-a-passkey"
+  },
+  "tmr.qld.gov.au": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "toasttab.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "todo.microsoft.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "toggl.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.toggl.com/how-to-set-up-and-log-in-with-a-passkey"
+  },
+  "torontomu.ca": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.torontomu.ca/ccs/services/ITSecurity/protecting-your-identity/two-factor-authentication/"
+  },
+  "totalenergies.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "transferwise.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://wise.com/help/articles/4OTG2Z93XXyaurUviZRg5O/"
+  },
+  "triangle.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://triangle.canadiantire.ca/en/my-account/account-settings/passkey.html"
+  },
+  "troweprice.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "trumf.no": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "trusona.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "tu-darmstadt.de": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.hrz.tu-darmstadt.de/tuid-2fa"
+  },
+  "tuta.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://tutanota.com/howto/#2fa"
+  },
+  "tutanota.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://tutanota.com/howto/#2fa"
+  },
+  "twingate.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.twingate.com/docs/two-factor-authentication-security-policies"
+  },
+  "twitter.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://help.x.com/managing-your-account/how-to-use-passkey"
+  },
+  "ubank.com.au": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ubank.com.au/help/current/app-and-online-banking/passkeys/how-do-i-add-passkeys-to-sign-in-to-my-ubank-app"
+  },
+  "ubc.ca": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://privacymatters.ubc.ca/test-faqs"
+  },
+  "uber.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://help.uber.com/riders/article/-?nodeId=61701cda-3615-43b2-8187-1440e91035d8"
+  },
+  "ubereats.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://help.uber.com/riders/article/-?nodeId=61701cda-3615-43b2-8187-1440e91035d8"
+  },
+  "ucdavis.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://movetoduo.ucdavis.edu"
+  },
+  "ucla.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://dts.ucla.edu/products-services/security/multi-factor-authentication/activate-ucla-logon-mfa"
+  },
+  "ucmerced.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://it.ucmerced.edu/2FA"
+  },
+  "ucr.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://its.ucr.edu/mfa"
+  },
+  "ucsd.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://blink.ucsd.edu/technology/security/services/two-step-login/"
+  },
+  "ui.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "uidaho.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://support.uidaho.edu/TDClient/KB/ArticleDet?ID=109"
+  },
+  "umich.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.safecomputing.umich.edu/two-factor-authentication"
+  },
+  "upwork.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "uq.edu.au": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://my.uq.edu.au/information-and-services/information-technology/uq-accounts-and-passwords/multi-factor-authentication-mfa"
+  },
+  "uwaterloo.ca": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://uwaterloo.ca/two-factor-authentication/"
+  },
+  "va.gov": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.va.gov/resources/verifying-your-identity-on-vagov"
+  },
+  "vanguard.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://investor.vanguard.com/security/security-keys"
+  },
+  "vaultcord.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://docs.vaultcord.com/misc/multi-factor-authentication"
+  },
+  "vaultvision.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "vcu.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://ts.vcu.edu/askit/essential-computing/information-security/2factor/"
+  },
+  "veolia.fr": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "veracode.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.veracode.com/r/t_configure_mfa"
+  },
+  "vercel.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "vicroads.vic.gov.au": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.vicroads.vic.gov.au/online-services/help-centre/personal-help-centre/passkeys"
+  },
+  "vinci-autoroutes.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "virgin.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "virginmedia.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.virginmedia.com/help/account/what-is-device-authentication"
+  },
+  "virginmediao2.co.uk": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "visma.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "visma.fi": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "visma.net": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "visma.no": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "visma.se": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "visualstudio.microsoft.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "vivaldi.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.vivaldi.com/services/account/two-factor-authentication/"
+  },
+  "vivaldi.net": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.vivaldi.com/services/account/two-factor-authentication/"
+  },
+  "vk.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "vk.ru": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "vse.cz": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://ci.vse.cz/english/support/procedures/multi-factor-authentication-in-microsoft-365/"
+  },
+  "walmart.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "warbyparker.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "warpcast.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "wealthsimple.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://help.wealthsimple.com/hc/articles/45953732950939"
+  },
+  "webauthn.io": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "webgate.ec.europa.eu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://webgate.ec.europa.eu/cas/manuals/EU_Login_Tutorial.pdf"
+  },
+  "weclapp.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://doc.weclapp.com/en/documentation/dein-start-mit-weclapp/2-my-weclapp-personal-master-and-contact-data/2-4-security/2-factor-authentication/"
+  },
+  "weebly.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://squareup.com/help/article/8460"
+  },
+  "wefunder.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://help.wefunder.com/en_US/multifactor-authentication"
+  },
+  "wellsfargo.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "wework.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "whatnot.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "whatsapp.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://faq.whatsapp.com/1850567238795036/"
+  },
+  "wikipedia.org": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://meta.wikimedia.org/wiki/Help:Two-factor_authentication"
+  },
+  "wisc.edu": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://it.wisc.edu/services/duo-multi-factor-authentication-mfa/"
+  },
+  "wise.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://wise.com/help/articles/4OTG2Z93XXyaurUviZRg5O/"
+  },
+  "withpersona.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "woltlab.com": {
+    "passwordless": false,
+    "mfa": true
+  },
+  "woolworths.com.au": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "wordpress.com": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://en.support.wordpress.com/security/two-step-authentication/"
+  },
+  "wp.pl": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://pomoc.wp.pl/1login/jak-wlaczyc-i-wylaczyc-logowanie-dwustopniowe"
+  },
+  "wynnresorts.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "wyze.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "x.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://help.x.com/managing-your-account/how-to-use-passkey"
+  },
+  "xbox.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless"
+  },
+  "yahoo.co.jp": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "yahoo.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://help.yahoo.com/kb/account/--sln35380.html"
+  },
+  "yammer.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.microsoft.com/en-us/account-billing/how-to-use-two-step-verification-with-your-microsoft-account-c7910146-672f-01e9-50a0-93b4585e7eb4"
+  },
+  "yelp.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "yorku.ca": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://infosec.yorku.ca/2FA"
+  },
+  "yoti.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "youtube.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://safety.google/authentication/passkey/"
+  },
+  "zaxbys.com": {
+    "passwordless": true,
+    "mfa": false
+  },
+  "zerotier.com": {
+    "passwordless": false,
+    "mfa": true
+  },
+  "zoho.com": {
+    "passwordless": true,
+    "mfa": true,
+    "documentation": "https://help.zoho.com/portal/en/kb/accounts/multi-factor-authentication/articles/mfa-security-key"
+  },
+  "zoom.us": {
+    "passwordless": true,
+    "mfa": false
+  }
+}

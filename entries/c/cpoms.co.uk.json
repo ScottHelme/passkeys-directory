@@ -1,0 +1,14 @@
+{
+  "domain": "cpoms.co.uk",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://raptor.my.site.com/CPOMS/s/article/CPOMS-Login-Help-Guide-4cb23e40",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

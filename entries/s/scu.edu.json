@@ -1,0 +1,14 @@
+{
+  "domain": "scu.edu",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://scu.edu/technology/get-connected/duo/learn-more-about-2fa/",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

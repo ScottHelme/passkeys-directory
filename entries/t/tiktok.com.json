@@ -1,0 +1,15 @@
+{
+  "domain": "tiktok.com",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://support.tiktok.com/en/log-in-troubleshoot/log-in/log-in-with-a-passkey",
+  "sources": [
+    "2factorauth",
+    "dashlane"
+  ],
+  "added": "2026-06-25"
+}

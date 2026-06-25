@@ -1,0 +1,14 @@
+{
+  "domain": "asu.edu",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://getprotected.asu.edu/services/identity-and-access-management/duo-two-factor-authentication",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

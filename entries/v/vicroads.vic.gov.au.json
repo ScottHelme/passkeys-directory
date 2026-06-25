@@ -1,0 +1,15 @@
+{
+  "domain": "vicroads.vic.gov.au",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://www.vicroads.vic.gov.au/online-services/help-centre/personal-help-centre/passkeys",
+  "sources": [
+    "2factorauth",
+    "dashlane"
+  ],
+  "added": "2026-06-25"
+}

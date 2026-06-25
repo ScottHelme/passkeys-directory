@@ -1,0 +1,14 @@
+{
+  "domain": "telstra.com.au",
+  "name": null,
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://www.telstra.com.au/support/account-payment/set-up-and-manage-a-passkey",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

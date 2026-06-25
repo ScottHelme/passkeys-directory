@@ -1,0 +1,14 @@
+{
+  "domain": "mail.ru",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://help.mail.ru/mail/settings/2fa",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

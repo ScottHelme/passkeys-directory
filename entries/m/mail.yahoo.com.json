@@ -1,0 +1,14 @@
+{
+  "domain": "mail.yahoo.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://help.yahoo.com/kb/SLN5013.html",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

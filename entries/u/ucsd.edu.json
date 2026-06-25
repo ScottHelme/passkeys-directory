@@ -1,0 +1,14 @@
+{
+  "domain": "ucsd.edu",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://blink.ucsd.edu/technology/security/services/two-step-login/",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

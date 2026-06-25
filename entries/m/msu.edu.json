@@ -1,0 +1,14 @@
+{
+  "domain": "msu.edu",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://secureit.msu.edu/multi-factor/index.html",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

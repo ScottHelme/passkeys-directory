@@ -1,0 +1,14 @@
+{
+  "domain": "calpoly.edu",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://calpoly.atlassian.net/wiki/spaces/CPKB/pages/3539066",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}

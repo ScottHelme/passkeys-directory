@@ -1,0 +1,14 @@
+{
+  "domain": "oraclecloud.com",
+  "name": null,
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": null,
+  "region": "global",
+  "documentation": "https://docs.oracle.com/en/cloud/paas/identity-cloud/uaids/configure-authentication-factors.html",
+  "sources": [
+    "2factorauth"
+  ],
+  "added": "2026-06-25"
+}
