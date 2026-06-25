@@ -1,13 +1,18 @@
 {
   "domain": "apple.com",
-  "name": null,
+  "name": "Apple",
   "passkey_signin": true,
-  "passkey_mfa": false,
-  "additional_domains": [],
-  "category": null,
+  "passkey_mfa": true,
+  "additional_domains": [
+    "appleid.apple.com"
+  ],
+  "category": "technology",
   "region": "global",
-  "documentation": null,
+  "documentation": "https://support.apple.com/guide/icloud/sign-in-and-use-icloudcom-mm281e3e7d/icloud",
+  "notes": "Apple Account supports passwordless 'Sign in with Passkey' per Apple's iCloud.com sign-in guide (at iCloud.com / appleid.apple.com); requires iCloud Keychain and an iPhone/iPad on iOS/iPadOS 17 or later, so passwordless works via Apple devices. Apple Account also supports FIDO security keys as a second factor (support.apple.com/102637).",
   "sources": [
+    "2factorauth",
+    "community",
     "dashlane"
   ],
   "added": "2026-06-25"

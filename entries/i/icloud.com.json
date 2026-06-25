@@ -1,14 +1,16 @@
 {
   "domain": "icloud.com",
-  "name": null,
-  "passkey_signin": false,
+  "name": "iCloud",
+  "passkey_signin": true,
   "passkey_mfa": true,
   "additional_domains": [],
-  "category": null,
+  "category": "technology",
   "region": "global",
-  "documentation": "https://support.apple.com/en-us/HT204915",
+  "documentation": "https://support.apple.com/guide/icloud/sign-in-and-use-icloudcom-mm281e3e7d/icloud",
+  "notes": "Same Apple Account login as apple.com. Apple's iCloud.com guide documents passwordless 'Sign in with Passkey' (iCloud Keychain + iPhone/iPad on iOS/iPadOS 17 or later). Was seeded passkey_signin:false from 2factorauth's icloud.com key — corrected.",
   "sources": [
-    "2factorauth"
+    "2factorauth",
+    "community"
   ],
   "added": "2026-06-25"
 }

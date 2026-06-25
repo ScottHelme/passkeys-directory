@@ -222,12 +222,13 @@
   },
   "apple.com": {
     "passwordless": true,
-    "mfa": false
+    "mfa": true,
+    "documentation": "https://support.apple.com/guide/icloud/sign-in-and-use-icloudcom-mm281e3e7d/icloud"
   },
   "appleid.apple.com": {
     "passwordless": true,
     "mfa": true,
-    "documentation": "https://support.apple.com/en-us/HT204915"
+    "documentation": "https://support.apple.com/guide/icloud/sign-in-and-use-icloudcom-mm281e3e7d/icloud"
   },
   "april.fr": {
     "passwordless": true,
@@ -1091,9 +1092,9 @@
     "mfa": false
   },
   "icloud.com": {
-    "passwordless": false,
+    "passwordless": true,
     "mfa": true,
-    "documentation": "https://support.apple.com/en-us/HT204915"
+    "documentation": "https://support.apple.com/guide/icloud/sign-in-and-use-icloudcom-mm281e3e7d/icloud"
   },
   "id.me": {
     "passwordless": true,
