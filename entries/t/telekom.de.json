@@ -1,0 +1,15 @@
+{
+  "domain": "telekom.de",
+  "name": "Telekom",
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": "telecom",
+  "region": "DE",
+  "documentation": "https://www.telekom.de/hilfe/vertrag-rechnung/telekom-login/passkey-erklaerung",
+  "notes": "Telekom Login (Kundencenter) supports passkeys for passwordless sign-in via fingerprint, Face ID or device PIN instead of username/password; password remains available as a fallback and cannot yet be disabled. Over 1 million passkeys created in the first four months. Submitted via community issue #5.",
+  "sources": [
+    "community"
+  ],
+  "added": "2026-06-29"
+}

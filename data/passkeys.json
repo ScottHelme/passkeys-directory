@@ -2153,6 +2153,11 @@
     "passwordless": true,
     "mfa": false
   },
+  "telekom.de": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.telekom.de/hilfe/vertrag-rechnung/telekom-login/passkey-erklaerung"
+  },
   "telenorid.com": {
     "passwordless": true,
     "mfa": false
