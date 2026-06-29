@@ -1,14 +1,16 @@
 {
   "domain": "facebook.com",
-  "name": null,
-  "passkey_signin": false,
+  "name": "Facebook",
+  "passkey_signin": true,
   "passkey_mfa": true,
   "additional_domains": [],
-  "category": null,
+  "category": "social",
   "region": "global",
-  "documentation": "https://www.facebook.com/help/148233965247823",
+  "documentation": "https://www.facebook.com/help/1181045243159511",
+  "notes": "Facebook supports passkeys for passwordless sign-in (fingerprint, face scan or device PIN instead of a password), rolled out globally on the mobile apps from mid-2025 and managed via Accounts Center > Password and security > Passkeys. FIDO2 security keys are also supported as a second factor (MFA). Up to 5 passkeys per Meta Account.",
   "sources": [
-    "2factorauth"
+    "2factorauth",
+    "community"
   ],
   "added": "2026-06-25"
 }
