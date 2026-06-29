@@ -101,6 +101,11 @@
     "passwordless": true,
     "mfa": false
   },
+  "airnewzealand.co.nz": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.airnewzealand.co.nz/manage-multi-factor-authentication"
+  },
   "airnewzealand.com": {
     "passwordless": true,
     "mfa": false
@@ -1926,6 +1931,11 @@
     "passwordless": true,
     "mfa": false
   },
+  "reddit.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.reddithelp.com/hc/en-us/articles/49063461551252-What-are-passkeys-and-how-do-I-set-it-up"
+  },
   "registro.br": {
     "passwordless": false,
     "mfa": true,
@@ -1961,6 +1971,11 @@
     "passwordless": false,
     "mfa": true,
     "documentation": "https://help.salesforce.com/s/articleView?id=sf.register_built_in_authenticator.htm"
+  },
+  "samsung.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.samsung.com/us/support/answer/ANS10005290/"
   },
   "sandbox.fusionauth.io": {
     "passwordless": true,
@@ -2147,6 +2162,11 @@
   "telekom.com": {
     "passwordless": true,
     "mfa": false
+  },
+  "telekom.de": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.telekom.de/hilfe/vertrag-rechnung/telekom-login/passkey-erklaerung"
   },
   "telenorid.com": {
     "passwordless": true,

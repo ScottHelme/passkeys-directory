@@ -1,0 +1,15 @@
+{
+  "domain": "reddit.com",
+  "name": "Reddit",
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": "social",
+  "region": "global",
+  "documentation": "https://support.reddithelp.com/hc/en-us/articles/49063461551252-What-are-passkeys-and-how-do-I-set-it-up",
+  "notes": "Reddit supports passkeys as a passwordless sign-in method (device biometrics or PIN instead of a password); password and OTP remain available as backup login methods. Per Reddit Help. Submitted via community issue #2.",
+  "sources": [
+    "community"
+  ],
+  "added": "2026-06-29"
+}

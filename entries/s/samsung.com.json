@@ -1,0 +1,15 @@
+{
+  "domain": "samsung.com",
+  "name": "Samsung",
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": "technology",
+  "region": "global",
+  "documentation": "https://www.samsung.com/us/support/answer/ANS10005290/",
+  "notes": "Samsung Account supports passkeys for passwordless sign-in via Samsung Pass (log in with fingerprint instead of username/password). Not used as a second factor: Samsung's two-step verification offers SMS, authenticator app and backup codes only. Submitted via community issue #6 (which also requested MFA; corrected to sign-in only per Samsung documentation).",
+  "sources": [
+    "community"
+  ],
+  "added": "2026-06-29"
+}
