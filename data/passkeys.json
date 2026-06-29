@@ -101,6 +101,11 @@
     "passwordless": true,
     "mfa": false
   },
+  "airnewzealand.co.nz": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://www.airnewzealand.co.nz/manage-multi-factor-authentication"
+  },
   "airnewzealand.com": {
     "passwordless": true,
     "mfa": false

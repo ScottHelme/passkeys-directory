@@ -1,0 +1,15 @@
+{
+  "domain": "airnewzealand.co.nz",
+  "name": "Air New Zealand",
+  "passkey_signin": false,
+  "passkey_mfa": true,
+  "additional_domains": [],
+  "category": "travel",
+  "region": "NZ",
+  "documentation": "https://www.airnewzealand.co.nz/manage-multi-factor-authentication",
+  "notes": "Air New Zealand offers passkeys (PIN or biometric) as one of its multi-factor authentication methods, alongside authenticator app, security key, SMS and email; it supplements rather than replaces the password, so it is classified as MFA only. Implemented via Authsignal. Submitted via community issue #7.",
+  "sources": [
+    "community"
+  ],
+  "added": "2026-06-29"
+}
