@@ -854,9 +854,9 @@
     "mfa": false
   },
   "facebook.com": {
-    "passwordless": false,
+    "passwordless": true,
     "mfa": true,
-    "documentation": "https://www.facebook.com/help/148233965247823"
+    "documentation": "https://www.facebook.com/help/1181045243159511"
   },
   "fastmail.com": {
     "passwordless": false,
