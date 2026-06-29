@@ -1967,6 +1967,11 @@
     "mfa": true,
     "documentation": "https://help.salesforce.com/s/articleView?id=sf.register_built_in_authenticator.htm"
   },
+  "samsung.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.samsung.com/us/support/answer/ANS10005290/"
+  },
   "sandbox.fusionauth.io": {
     "passwordless": true,
     "mfa": false
