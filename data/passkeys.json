@@ -1926,6 +1926,11 @@
     "passwordless": true,
     "mfa": false
   },
+  "reddit.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://support.reddithelp.com/hc/en-us/articles/49063461551252-What-are-passkeys-and-how-do-I-set-it-up"
+  },
   "registro.br": {
     "passwordless": false,
     "mfa": true,
