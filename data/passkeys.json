@@ -1985,6 +1985,11 @@
     "passwordless": false,
     "mfa": true
   },
+  "sbb.ch": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.sbb.ch/en/help-and-contact/my-profile/questions-signing-in.html"
+  },
   "sceneplus.ca": {
     "passwordless": true,
     "mfa": false
@@ -2118,7 +2123,8 @@
   },
   "swisspass.ch": {
     "passwordless": true,
-    "mfa": false
+    "mfa": false,
+    "documentation": "https://www.sbb.ch/en/help-and-contact/my-profile/questions-signing-in.html"
   },
   "sydney.edu.au": {
     "passwordless": false,

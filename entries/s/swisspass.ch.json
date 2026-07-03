@@ -1,14 +1,18 @@
 {
   "domain": "swisspass.ch",
-  "name": null,
+  "name": "SwissPass",
   "passkey_signin": true,
   "passkey_mfa": false,
-  "additional_domains": [],
-  "category": null,
-  "region": "global",
-  "documentation": null,
+  "additional_domains": [
+    "sbb.ch"
+  ],
+  "category": "transport",
+  "region": "CH",
+  "documentation": "https://www.sbb.ch/en/help-and-contact/my-profile/questions-signing-in.html",
+  "notes": "SwissPass is the shared Swiss public-transport login; sbb.ch and the SBB Mobile app sign in with it. Passkeys (added mid-2025) are a passwordless sign-in method that replaces password + second factor in one step, not a separate MFA option. Confirmed via SBB's own help pages. Submitted via community issue #12.",
   "sources": [
-    "dashlane"
+    "dashlane",
+    "community"
   ],
   "added": "2026-06-25"
 }
