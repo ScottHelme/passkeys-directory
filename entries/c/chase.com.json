@@ -1,0 +1,15 @@
+{
+  "domain": "chase.com",
+  "name": "Chase",
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": "finance",
+  "region": "US",
+  "documentation": "https://www.chase.com/digital/resources/privacy-security/security/how-you-can-protect",
+  "notes": "Chase supports passkeys as a passwordless sign-in (face, fingerprint or device passcode instead of a password); username + password + 2-step verification remain available as a fallback. Per Chase's own security page, passkeys currently work only for signing in to chase.com in a browser, not the mobile app. Submitted via community issue #17.",
+  "sources": [
+    "community"
+  ],
+  "added": "2026-07-03"
+}

@@ -486,6 +486,11 @@
     "passwordless": true,
     "mfa": false
   },
+  "chase.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.chase.com/digital/resources/privacy-security/security/how-you-can-protect"
+  },
   "chat.google.com": {
     "passwordless": true,
     "mfa": true,
