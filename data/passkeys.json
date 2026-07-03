@@ -1898,6 +1898,11 @@
     "mfa": true,
     "documentation": "https://proton.me/support/two-factor-authentication-2fa"
   },
+  "protonmail.ch": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://proton.me/support/two-factor-authentication-2fa"
+  },
   "protonmail.com": {
     "passwordless": false,
     "mfa": true,
