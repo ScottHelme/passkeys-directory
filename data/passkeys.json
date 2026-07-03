@@ -366,6 +366,11 @@
     "mfa": false,
     "documentation": "https://support.blizzard.com/help/article/380922"
   },
+  "bluewin.ch": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.swisscom.ch/en/residential/help/bill-and-contract/the-swisscom-login.html"
+  },
   "bmw.co.uk": {
     "passwordless": true,
     "mfa": false
