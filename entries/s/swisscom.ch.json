@@ -1,0 +1,17 @@
+{
+  "domain": "swisscom.ch",
+  "name": "Swisscom",
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [
+    "bluewin.ch"
+  ],
+  "category": "telecom",
+  "region": "CH",
+  "documentation": "https://www.swisscom.ch/en/residential/help/bill-and-contract/the-swisscom-login.html",
+  "notes": "The main Swisscom Login supports passkeys as a passwordless sign-in (My Swisscom > Profile > Login & Security). Swisscom's help positions the passkey itself as two-factor (device key + biometric/PIN) rather than offering it as a separate second factor, so passkey_mfa stays false. Not to be confused with Swisscom Trust Services (e-signature), which has its own separate login and passkey docs. Bluewin webmail (bluewin.ch) signs in with the Swisscom Login, so it is covered as an additional domain; note IMAP/mail-client access uses a separate Bluewin email password with no passkey — passkeys cover the web login only. Submitted via community issues #13 and #14.",
+  "sources": [
+    "community"
+  ],
+  "added": "2026-07-03"
+}

@@ -1,14 +1,20 @@
 {
   "domain": "proton.me",
-  "name": null,
+  "name": "Proton",
   "passkey_signin": false,
   "passkey_mfa": true,
-  "additional_domains": [],
-  "category": null,
+  "additional_domains": [
+    "protonmail.ch",
+    "protonmail.com",
+    "protonvpn.com"
+  ],
+  "category": "email",
   "region": "global",
   "documentation": "https://proton.me/support/two-factor-authentication-2fa",
+  "notes": "All Proton services (Mail, VPN, Pass, ...) and legacy domains protonmail.ch / protonmail.com share the single Proton account login (account.proton.me). FIDO2/U2F security keys — including passkeys acting as one — are supported as a second factor only; passwordless passkey sign-in to a Proton account is not available (still an open feature request). Proton's Pass passkey docs describe the Proton Pass password manager storing passkeys for third-party sites, not Proton account login. Confirmed via community issue #15.",
   "sources": [
-    "2factorauth"
+    "2factorauth",
+    "community"
   ],
   "added": "2026-06-25"
 }

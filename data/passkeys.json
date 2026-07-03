@@ -366,6 +366,11 @@
     "mfa": false,
     "documentation": "https://support.blizzard.com/help/article/380922"
   },
+  "bluewin.ch": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.swisscom.ch/en/residential/help/bill-and-contract/the-swisscom-login.html"
+  },
   "bmw.co.uk": {
     "passwordless": true,
     "mfa": false
@@ -481,6 +486,11 @@
     "passwordless": true,
     "mfa": false
   },
+  "chase.com": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.chase.com/digital/resources/privacy-security/security/how-you-can-protect"
+  },
   "chat.google.com": {
     "passwordless": true,
     "mfa": true,
@@ -534,9 +544,9 @@
     "documentation": "https://help.cloud66.com/node/account/two-factor-authentication.html"
   },
   "cloudflare.com": {
-    "passwordless": true,
+    "passwordless": false,
     "mfa": true,
-    "documentation": "https://support.cloudflare.com/hc/en-us/articles/200167906"
+    "documentation": "https://developers.cloudflare.com/fundamentals/user-profiles/2fa/"
   },
   "cloze.com": {
     "passwordless": true,
@@ -1893,6 +1903,11 @@
     "mfa": true,
     "documentation": "https://proton.me/support/two-factor-authentication-2fa"
   },
+  "protonmail.ch": {
+    "passwordless": false,
+    "mfa": true,
+    "documentation": "https://proton.me/support/two-factor-authentication-2fa"
+  },
   "protonmail.com": {
     "passwordless": false,
     "mfa": true,
@@ -1984,6 +1999,11 @@
   "sans.org": {
     "passwordless": false,
     "mfa": true
+  },
+  "sbb.ch": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.sbb.ch/en/help-and-contact/my-profile/questions-signing-in.html"
   },
   "sceneplus.ca": {
     "passwordless": true,
@@ -2112,13 +2132,19 @@
     "passwordless": true,
     "mfa": false
   },
+  "swisscom.ch": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.swisscom.ch/en/residential/help/bill-and-contract/the-swisscom-login.html"
+  },
   "swissid.ch": {
     "passwordless": true,
     "mfa": false
   },
   "swisspass.ch": {
     "passwordless": true,
-    "mfa": false
+    "mfa": false,
+    "documentation": "https://www.sbb.ch/en/help-and-contact/my-profile/questions-signing-in.html"
   },
   "sydney.edu.au": {
     "passwordless": false,
