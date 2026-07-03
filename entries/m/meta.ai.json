@@ -1,0 +1,15 @@
+{
+  "domain": "meta.ai",
+  "name": "Meta AI",
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": "ai",
+  "region": "global",
+  "documentation": "https://www.meta.com/help/meta-account/1991801474748071/",
+  "notes": "Sign-in uses the Meta Account, which supports passkeys (Login & security > Passkey) for passwordless login across Meta properties including Meta AI.",
+  "sources": [
+    "probe"
+  ],
+  "added": "2026-07-03"
+}
