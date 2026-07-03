@@ -1425,6 +1425,11 @@
     "mfa": true,
     "documentation": "https://www.facebook.com/help/148233965247823"
   },
+  "meta.ai": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.meta.com/help/meta-account/1991801474748071/"
+  },
   "meta.com": {
     "passwordless": true,
     "mfa": false
@@ -1732,6 +1737,11 @@
     "passwordless": false,
     "mfa": true,
     "documentation": "https://docs.opencollective.com/help/product/two-factor-authentication"
+  },
+  "openrouter.ai": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://openrouter.ai/announcements/passkeys-devex-upgrades-and-a-new-guide-for-typescript-agents"
   },
   "oraclecloud.com": {
     "passwordless": false,

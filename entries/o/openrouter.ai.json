@@ -1,0 +1,15 @@
+{
+  "domain": "openrouter.ai",
+  "name": "OpenRouter",
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": "ai",
+  "region": "global",
+  "documentation": "https://openrouter.ai/announcements/passkeys-devex-upgrades-and-a-new-guide-for-typescript-agents",
+  "notes": "First-party passkey enrollment in account settings (Settings > Preferences); announced 2025 as a passwordless sign-in option.",
+  "sources": [
+    "probe"
+  ],
+  "added": "2026-07-03"
+}
