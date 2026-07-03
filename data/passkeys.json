@@ -539,9 +539,9 @@
     "documentation": "https://help.cloud66.com/node/account/two-factor-authentication.html"
   },
   "cloudflare.com": {
-    "passwordless": true,
+    "passwordless": false,
     "mfa": true,
-    "documentation": "https://support.cloudflare.com/hc/en-us/articles/200167906"
+    "documentation": "https://developers.cloudflare.com/fundamentals/user-profiles/2fa/"
   },
   "cloze.com": {
     "passwordless": true,

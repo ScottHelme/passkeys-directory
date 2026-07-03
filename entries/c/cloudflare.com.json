@@ -1,15 +1,17 @@
 {
   "domain": "cloudflare.com",
-  "name": null,
-  "passkey_signin": true,
+  "name": "Cloudflare",
+  "passkey_signin": false,
   "passkey_mfa": true,
   "additional_domains": [],
-  "category": null,
+  "category": "infrastructure",
   "region": "global",
-  "documentation": "https://support.cloudflare.com/hc/en-us/articles/200167906",
+  "documentation": "https://developers.cloudflare.com/fundamentals/user-profiles/2fa/",
+  "notes": "The Cloudflare dashboard supports WebAuthn security keys — hardware keys or platform authenticators like Touch ID / Windows Hello — as phishing-resistant 2FA only. Sign-in methods are email + password, SSO, or social login; there is no passwordless passkey sign-in. The seed data's passwordless flag was wrong. Corrected via community issue #16.",
   "sources": [
     "2factorauth",
-    "dashlane"
+    "dashlane",
+    "community"
   ],
   "added": "2026-06-25"
 }
