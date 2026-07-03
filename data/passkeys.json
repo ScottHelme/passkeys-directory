@@ -2117,6 +2117,11 @@
     "passwordless": true,
     "mfa": false
   },
+  "swisscom.ch": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.swisscom.ch/en/residential/help/bill-and-contract/the-swisscom-login.html"
+  },
   "swissid.ch": {
     "passwordless": true,
     "mfa": false
