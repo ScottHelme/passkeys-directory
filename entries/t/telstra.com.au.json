@@ -1,14 +1,16 @@
 {
   "domain": "telstra.com.au",
-  "name": null,
+  "name": "Telstra",
   "passkey_signin": true,
-  "passkey_mfa": false,
+  "passkey_mfa": true,
   "additional_domains": [],
-  "category": null,
-  "region": "global",
+  "category": "telecom",
+  "region": "AU",
   "documentation": "https://www.telstra.com.au/support/account-payment/set-up-and-manage-a-passkey",
+  "notes": "Telstra ID / My Telstra account: passkeys support passwordless sign-in (password can be disabled entirely) and also work as a strong second factor. Confirmed 2026-07 against Telstra's support docs; the site is geo-restricted to Australia.",
   "sources": [
-    "2factorauth"
+    "2factorauth",
+    "community"
   ],
   "added": "2026-06-25"
 }
