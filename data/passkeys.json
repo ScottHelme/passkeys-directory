@@ -2215,7 +2215,7 @@
   },
   "telstra.com.au": {
     "passwordless": true,
-    "mfa": false,
+    "mfa": true,
     "documentation": "https://www.telstra.com.au/support/account-payment/set-up-and-manage-a-passkey"
   },
   "tender.run": {
