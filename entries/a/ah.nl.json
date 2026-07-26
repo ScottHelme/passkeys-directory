@@ -1,0 +1,15 @@
+{
+  "domain": "ah.nl",
+  "name": "Albert Heijn",
+  "passkey_signin": true,
+  "passkey_mfa": false,
+  "additional_domains": [],
+  "category": "retail",
+  "region": "NL",
+  "documentation": "https://www.ah.nl/klantenservice/mijn-albert-heijn/inloggen-op-ah-nl",
+  "notes": "Albert Heijn is the largest Dutch supermarket chain. Passkeys are a passwordless sign-in method, not a second factor: the customer service FAQ 'Wat als inloggen met een Passkey niet lukt?' offers the password as the fallback when a passkey login fails. The account settings payload lists Passkeys under 'Inloggegevens' separately from the MFA options (SMS code, email code, AH app), and the site's GraphQL schema exposes CiamPasskeyRegisterStart/Finish and CiamPasskeyUpdate mutations distinct from CiamUpdateMfaSetting. Verified from the live page; login.ah.nl itself returns 403 to non-browser clients so the sign-in screen was not inspected directly. Submitted via community issue #27.",
+  "sources": [
+    "community"
+  ],
+  "added": "2026-07-26"
+}
