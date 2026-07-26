@@ -84,6 +84,11 @@
     "passwordless": true,
     "mfa": false
   },
+  "ah.nl": {
+    "passwordless": true,
+    "mfa": false,
+    "documentation": "https://www.ah.nl/klantenservice/mijn-albert-heijn/inloggen-op-ah-nl"
+  },
   "aha.io": {
     "passwordless": false,
     "mfa": true,
